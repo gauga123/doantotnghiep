@@ -1,1 +1,0 @@
-__pycache__/__init__.cpython-311.pyc __pycache__/__init__.cpython-312.pyc __pycache__/settings.cpython-311.pyc __pycache__/settings.cpython-312.pyc __pycache__/urls.cpython-311.pyc __pycache__/urls.cpython-312.pyc __pycache__/wsgi.cpython-311.pyc __pycache__/wsgi.cpython-312.pyc
